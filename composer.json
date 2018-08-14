@@ -2,7 +2,7 @@
   "name": "reprover/laravel-yar",
   "description": "Yar的Laravel封装",
   "type": "library",
-  "license": "MIT License",
+  "license": "MIT",
   "authors": [
     {
       "name": "Li Jian",
