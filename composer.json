@@ -1,0 +1,27 @@
+{
+  "name": "reprover/laravel-yar",
+  "description": "Yar的Laravel封装",
+  "type": "library",
+  "license": "MIT License",
+  "authors": [
+    {
+      "name": "Li Jian",
+      "email": "mydr@vip.qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Reprover\\LaravelYar\\": "src/"
+    }
+  },
+  "require": {
+    "laravel/laravel": ">=5.5"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Reprover\\LaravelYaf\\ServiceProvider"
+      ]
+    }
+  }
+}
