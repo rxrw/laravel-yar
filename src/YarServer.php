@@ -1,6 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
+ * Yar服务端程序 建议继承此类 我也不知道为啥
  * User: li
  * Date: 2018/8/15
  * Time: 上午12:31
@@ -9,7 +9,7 @@
 namespace Reprover\LaravelYar;
 
 
-abstract class YarServer
+abstract class YarService
 {
 
 }
