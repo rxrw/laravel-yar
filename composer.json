@@ -20,7 +20,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Reprover\\LaravelYaf\\ServiceProvider"
+        "Reprover\\LaravelYar\\ServiceProvider"
       ]
     }
   }
