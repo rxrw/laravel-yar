@@ -7,10 +7,9 @@
  * Time: 上午12:01
  */
 
-namespace Reprover\LaravelYar\Controller;
+namespace Reprover\LaravelYar\Controllers;
 
 use Illuminate\Routing\Controller;
-
 use Yar_Server;
 
 class YarController extends Controller

@@ -21,7 +21,10 @@
     "laravel": {
       "providers": [
         "Reprover\\LaravelYar\\ServiceProvider"
-      ]
+      ],
+      "aliases": {
+        "Yar": "Reprover\\LaravelYar\\Facade"
+      }
     }
   }
 }
