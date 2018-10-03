@@ -9,7 +9,7 @@
 
 namespace Reprover\LaravelYar;
 
-
+//注意代码规范
 abstract class YarService
 {
 
